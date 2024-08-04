@@ -82,8 +82,6 @@ This PowerShell script allows you to manage user aliases in Active Directory and
 ## Notes
 
 - Ensure you have the necessary permissions to update user objects in Active Directory and perform synchronization.
-- The script uses `Clear-Host` to clear the screen for a better user experience.
-- Use appropriate error handling and logging as needed for your environment.
 
 ## License
 
